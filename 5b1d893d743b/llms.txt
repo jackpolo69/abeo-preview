@@ -1,0 +1,83 @@
+# Abeó Health
+
+> Abeó Health is a care coordination network in South Orange County, California.
+> One trusted team coordinates vetted home care, non-emergency medical
+> transportation, senior placement, and a family dashboard — so families never
+> navigate care alone. Tagline: "Care, coordinated. Because health is everything."
+> Philosophy: High Tech, High Touch — technology enables efficiency, but people
+> deliver trust.
+
+## What Abeó Health is
+
+Abeó Health, LLC is a care coordination network serving families in South Orange
+County, California (Laguna Niguel / Laguna Hills / Saddleback area). It connects
+several kinds of care into one coordinated experience run by human coordinators,
+rather than offering them as disconnected, self-managed services.
+
+- Entity: Abeó Health, LLC
+- Region served: Orange County, California
+- Address: 28100 Cabot Rd. Suite 232, Laguna Niguel, CA 92677
+- Phone: (949) 987-4605
+- Email: info@abeo.health
+- Website: https://abeo.health
+
+## Services
+
+- **Abeó Care (home care):** Non-medical, in-home care delivered by W-2 caregivers
+  Abeó hires, trains, insures, and stands behind. Abeó Care is a
+  California-licensed Home Care Organization (CDSS license HCS 281); all Home Care
+  Aides are registered on the California Home Care Aide Registry (HCAR).
+  Includes personal care (bathing, dressing, grooming, mobility/transfer
+  assistance), companionship, meal preparation, medication reminders
+  (non-administration), light housekeeping, laundry, and errands. Note: this is
+  non-medical home care, not clinical/skilled nursing. Published rates start at
+  $36/hr (Companion tier). Details: https://abeo.health/services/registry
+
+- **Abeó Transport (medical transportation):** Non-emergency medical
+  transportation (NEMT) for appointments, hospital discharges, and post-procedure
+  pickups. Powered by Uber Health with human, door-to-door coordination and
+  wheelchair-accessible options. Details: https://abeo.health/services/ride
+  Booking: https://abeo.health/book-ride
+
+- **Senior Placement (part of Abeó Connect):** Free, conflict-disclosed guidance
+  to help families find the right assisted living, memory care, or skilled nursing
+  community. Paid by the receiving community, not the family.
+  Details: https://abeo.health/services/living
+
+- **Abeó Connect (care coordination + family dashboard):** The coordination layer
+  that ties everything together — a dedicated human coordinator, a family
+  dashboard, real-time communication between family/caregivers/providers, and
+  escalation handling. Offered as a monthly subscription (Care Circle
+  Coordination). Details: https://abeo.health/services/circle
+
+## Who it serves
+
+Families in Orange County, California arranging care for aging or recovering
+loved ones — especially around hospital discharge, post-procedure recovery, and
+the transition between hospital and home.
+
+## Coming later (not yet available)
+
+Clinical home health tiers (RN / LVN / PT / OT) are planned for a later phase
+(Phase 3) and are shown on the site as a waitlist / "coming soon," not as
+currently available services.
+
+## Key facts
+
+- Non-medical home care caregivers are W-2 employees (not independent
+  contractors): background-checked (DOJ/FBI), HCAR-registered, CPR/First-Aid
+  certified, insured, and covered by workers' compensation.
+- Abeó Care operates under California CDSS licensing HCS 281 and the Home Care
+  Services Consumer Protection Act.
+- Pricing for home care is published and transparent; coordination and clinical
+  offerings are quoted per family.
+
+## Key pages
+
+- Home: https://abeo.health/
+- Services overview: https://abeo.health/services
+- Pricing: https://abeo.health/pricing
+- About: https://abeo.health/about
+- Book a ride: https://abeo.health/book-ride
+- Terms: https://abeo.health/terms
+- Privacy: https://abeo.health/privacy
