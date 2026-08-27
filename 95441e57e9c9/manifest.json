@@ -1,0 +1,17 @@
+{
+  "name": "Abeó Health — Care Coordination Network",
+  "short_name": "Abeó",
+  "description": "South Orange County's care coordination network — home care, non-emergency medical transportation, senior placement, and a family dashboard, coordinated through one trusted team.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42C2BE",
+  "icons": [
+    {
+      "src": "/logo-mark.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
